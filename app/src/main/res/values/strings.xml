@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB8Testing</string>
+    <string name="celsus">connect to celsues</string>
+    <string name="faranhght">connect to faranhght</string>
+    <string name="value">Enter value</string>
+    <string name="convert">Convert</string>
+</resources>
